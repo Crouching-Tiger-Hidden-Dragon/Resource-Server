@@ -4,4 +4,4 @@
 
 
 # Run command
-> ### java -jar target/<fieleName>.jar --server.port=80 
+> ### java -jar target/[fieleName].jar --server.port=80 
